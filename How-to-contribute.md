@@ -1,5 +1,3 @@
 我们不建议把一个复杂功能的PR的多个commit squash到一个commit。
-好处：
-大家可以通过diff来学习这个功能的开发过程。
-坏处：
-master上可能会出现无法运行的commit。规避方法是：我们建议把无法运行的commit标记为WIP。
+这样做的好处是大家可以通过diff来学习这个功能的开发过程。
+这样做的缺点是master上可能会出现无法运行的commit，应对方法是：把无法运行的commit标记为WIP。
