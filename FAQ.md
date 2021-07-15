@@ -25,3 +25,6 @@ https://github.com/OpenXiangShan/XiangShan/blob/master/src/main/scala/xiangshan/
 香山的参数系统使用了 Context-Dependent Evironments 这个参数环境, 对应仓库中的 api-config-chipsalliance 这个 submodule. 更详细的使用说明可以参考这个仓库的文档:
 
 https://github.com/chipsalliance/api-config-chipsalliance
+
+Q: 生成香山核建议使用多大内存？
+A: 64G
