@@ -1,4 +1,4 @@
-Compiling Troubleshoot Guide
+Compiling Troubleshooting Guide
 ================
 
 * Make sure your device have enough memory. Xiangshan project is quite memory intensive. We recommand 32GB memory for MinimalConfig and 64GB memory for full XiangShan. (https://github.com/OpenXiangShan/XiangShan/issues/995)
